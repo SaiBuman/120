@@ -2,7 +2,7 @@ body {
   background-color:#fab2b2;
   font-family: 'Anek Telugu', sans-serif;
   font-size: 25px;
-  color: #1fd225;
+  color: #ffffff;
  }
 
  img {
@@ -15,6 +15,17 @@ body {
    margin: 40px;
  }
 
- span {
-   color: red;
+ p {
+   font-size: 20px;
+ }
+
+ .bold {
+   color: chocolate;
+ } 
+
+ .accuracy {
+   background-color: coral;
+   color: #9b5237;
+   margin-top: 1300px;
+   margin-left: 20px;
  }
